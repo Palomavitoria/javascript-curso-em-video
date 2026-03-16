@@ -4,7 +4,7 @@ Neste módulo são apresentados os primeiros comandos da linguagem JavaScript, i
 
 ## 📚 Aulas
 
-* Aula 05 — Variáveis e tipos primitivos
-* Aula 06 — Tratamento de dados
-* Aula 07 — Operadores (parte 1)
-* Aula 08 — Operadores (parte 2)
+* [Aula 05 — Variáveis e Tipos Primitivos](aula05-variaveis-e-tipos-primitivos.md)
+* [Aula 06 — Tratamento de dados](aula06-tratamento-de-dados.md)
+* [Aula 07 — Operadores (Parte 1)](aula07-operadores-parte1.md)
+* [Aula 08 — Operadores (Parte 2)](aula08-operadores-parte2.md)
