@@ -172,7 +172,6 @@ function tabuada() {
 ## 🎥 Preview do Projeto
 
 
----
 
 <img width="853" height="480" alt="tabuada-preview" src="https://github.com/user-attachments/assets/0072f1d5-872f-454c-972a-93a9003b5696" />
 
