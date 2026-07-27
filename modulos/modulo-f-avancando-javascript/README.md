@@ -3,7 +3,7 @@ Este módulo aprofunda os conhecimentos em JavaScript, apresentando estruturas m
 
 ## 📚 Aulas
 
-- [Aula 15 — Variáveis Compostas (Arrays)](https://www.cursoemvideo.com/curso/javascript/)
+- [Aula 15 — Variáveis Compostas (Arrays)](aula15-variaveiscompostas(arrays).md)
 - [Aula 16 — Funções](https://www.cursoemvideo.com/curso/javascript/)
 
 ## 🧪 Exercícios
