@@ -1,4 +1,3 @@
-
 # 📚 BookTrack
 
 **Gerenciador de Biblioteca Pessoal**
@@ -7,11 +6,15 @@ O BookTrack é uma aplicação web desenvolvida como projeto final do curso de J
 
 Com ele, é possível cadastrar livros, acompanhar o progresso das leituras, editar informações, pesquisar títulos e visualizar estatísticas da biblioteca.
 
+## 🌐 Acesse o projeto
+
+[**📚 Clique aqui para acessar o BookTrack**](https://palomavitoria.github.io/javascript-curso-em-video/)
+
 ## ✨ Funcionalidades
 
-- **Cadastro de livros:** adicione livros informando título, autor, gênero e quantidade de páginas.
-- **Edição:** atualize as informações dos livros cadastrados.
-- **Exclusão:** remova livros da biblioteca.
+- **Cadastro de livros:** adiciona livros informando título, autor, gênero e quantidade de páginas.
+- **Edição:** permite atualizar as informações dos livros cadastrados.
+- **Exclusão:** permite remover livros da biblioteca.
 - **Pesquisa:** encontre livros pelo título, autor ou gênero.
 - **Controle de leitura:** organize os livros por status:
   - Quero ler;
@@ -39,9 +42,9 @@ Com ele, é possível cadastrar livros, acompanhar o progresso das leituras, edi
 Este projeto foi desenvolvido para colocar em prática os conhecimentos adquiridos durante o curso de JavaScript, trabalhando conceitos como:
 
 - Variáveis e constantes;
-- Arrays e objetos;
+- Matrizes e objetos;
 - Funções;
-- Condicionais;
+- Estruturas condicionais;
 - Estruturas de repetição;
 - Métodos de manipulação de arrays;
 - Eventos;
